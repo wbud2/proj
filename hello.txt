@@ -23,3 +23,4 @@ hello BUAA!
 hello THU!
 hello PKU!   by user2
 hello UCAS!  by user2(扮演协作团队)
+hello SHU！  by 项目负责人
